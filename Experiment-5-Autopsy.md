@@ -38,12 +38,12 @@ This experiment demonstrates how to create a case, import evidence, analyze data
 - Fill in details such as case number, examiner’s name, etc., and click *Next*.
 
 
-![(images/exp5-step2.png)](https://github.com/baddiputi/Digital-Forensic-Lab-Exercises/blob/f90da30830306f35655735d52eb562bfd33a352f/images/WhatsApp%20Image%202025-09-01%20at%2012.29.59.jpeg)
+![(https://github.com/saichaitanya200627/Digital-Forensics-/blob/3ea0fc4a88b2ad03514843c8adeb0a876077b3a1/images/IMG-20250901-WA0081.jpg)
 
 *Step-3: Enter Case Details*  
 - Enter the case name and location where the case data will be stored. Fill in the details like the case number, examiner's name, etc., and click Next.
 
-![(images/exp5-step2.png)](https://github.com/baddiputi/Digital-Forensic-Lab-Exercises/blob/f90da30830306f35655735d52eb562bfd33a352f/images/WhatsApp%20Image%202025-09-01%20at%2012.30.16.jpeg)
+![(https://github.com/saichaitanya200627/Digital-Forensics-/blob/3ea0fc4a88b2ad03514843c8adeb0a876077b3a1/images/IMG-20250901-WA0082.jpg)
 
 *Step-4: Adding a Data Source*  
 - Choose the type of data source.  
@@ -51,13 +51,13 @@ This experiment demonstrates how to create a case, import evidence, analyze data
 - Configure *Ingest Modules* (to analyze files, search keywords, extract metadata, etc.).  
 - Start the analysis.
 
-![(images/exp5-step3.png)](https://github.com/baddiputi/Digital-Forensic-Lab-Exercises/blob/f90da30830306f35655735d52eb562bfd33a352f/images/WhatsApp%20Image%202025-09-01%20at%2012.31.16.jpeg)
+![(https://github.com/saichaitanya200627/Digital-Forensics-/blob/3ea0fc4a88b2ad03514843c8adeb0a876077b3a1/images/IMG-20250901-WA0083.jpg)
 
 *Step-5: Initial Analysis and Overview*  
 - Monitor *Ingest Progress*.  
 - Explore the resulting artifacts.  
 - Use the Tree Viewer to navigate evidence categories.  
-![(images/exp5-step5.png)](https://github.com/baddiputi/Digital-Forensic-Lab-Exercises/blob/f90da30830306f35655735d52eb562bfd33a352f/images/WhatsApp%20Image%202025-09-01%20at%2012.31.26.jpeg)
+![(images/exp5-step5.png)](https://github.com/saichaitanya200627/Digital-Forensics-/blob/3ea0fc4a88b2ad03514843c8adeb0a876077b3a1/images/IMG-20250901-WA0084.jpg)
 
 *Step-6: Detailed Analysis*  
 - *Keyword Search:*  
@@ -72,7 +72,7 @@ This experiment demonstrates how to create a case, import evidence, analyze data
 - *Hash Analysis:*  
   - Compare file hashes against known databases to identify known good/bad files.
 
-![(images/exp5-step6.png)](https://github.com/baddiputi/Digital-Forensic-Lab-Exercises/blob/f90da30830306f35655735d52eb562bfd33a352f/images/WhatsApp%20Image%202025-09-01%20at%2012.31.37.jpeg)
+![(https://github.com/saichaitanya200627/Digital-Forensics-/blob/3ea0fc4a88b2ad03514843c8adeb0a876077b3a1/images/IMG-20250901-WA0085.jpg)
 
 *Step-7: Reporting*  
 - Generate a report by selecting *Generate Report* from the toolbar.  
@@ -82,19 +82,19 @@ This experiment demonstrates how to create a case, import evidence, analyze data
 - Final Review: check that the report includes all relevant details.  
 - Save or print the report for case documentation.  
 
-![(images/exp5-step6.png)](https://github.com/baddiputi/Digital-Forensic-Lab-Exercises/blob/f90da30830306f35655735d52eb562bfd33a352f/images/WhatsApp%20Image%202025-09-01%20at%2012.31.52.jpeg)
+![(https://github.com/saichaitanya200627/Digital-Forensics-/blob/3ea0fc4a88b2ad03514843c8adeb0a876077b3a1/images/IMG-20250901-WA0086.jpg)
 
 - Report Generation Progress
 
-![(images/exp5-step6.png)](https://github.com/baddiputi/Digital-Forensic-Lab-Exercises/blob/f90da30830306f35655735d52eb562bfd33a352f/images/WhatsApp%20Image%202025-09-01%20at%2012.32.03.jpeg)
+![(https://github.com/saichaitanya200627/Digital-Forensics-/blob/3ea0fc4a88b2ad03514843c8adeb0a876077b3a1/images/IMG-20250901-WA0087.jpg)
 
 - Reports
 
-![(images/exp5-step6.png)](https://github.com/baddiputi/Digital-Forensic-Lab-Exercises/blob/f90da30830306f35655735d52eb562bfd33a352f/images/WhatsApp%20Image%202025-09-01%20at%2012.32.15.jpeg)
+![(https://github.com/saichaitanya200627/Digital-Forensics-/blob/3ea0fc4a88b2ad03514843c8adeb0a876077b3a1/images/IMG-20250901-WA0088.jpg)
 
 - Text in the report
 
-![(images/exp5-step6.png)](https://github.com/baddiputi/Digital-Forensic-Lab-Exercises/blob/f90da30830306f35655735d52eb562bfd33a352f/images/WhatsApp%20Image%202025-09-01%20at%2012.32.38.jpeg)
+![(https://github.com/saichaitanya200627/Digital-Forensics-/blob/3ea0fc4a88b2ad03514843c8adeb0a876077b3a1/images/IMG-20250901-WA0089.jpg)
 
 *Step-7: Case Closure*  
 - Close the case once the investigation is complete.  
