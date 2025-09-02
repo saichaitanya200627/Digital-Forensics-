@@ -44,7 +44,7 @@ It allows forensic investigators and security analysts to:
 
 *Step-3:* After starting packet capture, go to a website and log in with credentials.  
 
-![(images/exp3-step3.png)]()
+![(images/exp3-step3.png)](https://github.com/saichaitanya200627/Digital-Forensics-/blob/4e01a7125fe3e3dba9a655170b20e9d4c70b75b0/images/WhatsApp%20Image%202025-09-02%20at%203.36.54%20PM.jpeg)
 
 *Step-4:* Return to Wireshark and apply filters like *HTTP* to find HTTP packets on the network.  
 
