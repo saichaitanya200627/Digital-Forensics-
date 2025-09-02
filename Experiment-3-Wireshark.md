@@ -48,7 +48,7 @@ It allows forensic investigators and security analysts to:
 
 *Step-4:* Return to Wireshark and apply filters like *HTTP* to find HTTP packets on the network.  
 
-![(images/exp3-step4.png)]()
+![(images/exp3-step4.png)](https://github.com/saichaitanya200627/Digital-Forensics-/blob/3d06a35ca9ab407f8c8f10e1b206fbd291793975/images/IMG-20250901-WA0069.jpg)
 
 *Step-5:* Some HTTP packets will be captured. We specifically look for *form data* that the user submitted to the website.  
 - We have main two methods used for submitting form data from web pages like login forms
@@ -58,12 +58,12 @@ to the server. They are ‘GET’ & ‘POST’
 *Step-6:* To check credentials in requests sent via the *GET method*, apply this filter:  
 - http.request.method == "GET"
   
-![(images/exp3-step6.png)]()
+![(images/exp3-step6.png)](https://github.com/saichaitanya200627/Digital-Forensics-/blob/3d06a35ca9ab407f8c8f10e1b206fbd291793975/images/IMG-20250901-WA0070.jpg)
 
 *Step-7:* If credentials are not found with GET, apply the *POST method filter*:  
 - http.request.method == "POST"
 
-![(images/exp3-step7.png)](https://github.com/baddiputi/Digital-Forensic-Lab-Exercises/blob/58283c05b631d6b4e6b8862d84c18cef34398426/images/WhatsApp%20Image%202025-09-01%20at%2012.26.19.jpeg)
+![(images/exp3-step7.png)]()
 
 As you analyze the HTML form in POST requests, you can view user credentials (e.g., username and password).  
 Example:  
