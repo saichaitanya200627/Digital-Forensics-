@@ -63,7 +63,7 @@ to the server. They are ‘GET’ & ‘POST’
 *Step-7:* If credentials are not found with GET, apply the *POST method filter*:  
 - http.request.method == "POST"
 
-![(images/exp3-step7.png)]()
+![(images/exp3-step7.png)](https://github.com/saichaitanya200627/Digital-Forensics-/blob/26c2f2425161e5af0282a88fe368e0930210936c/images/IMG-20250901-WA0071.jpg)
 
 As you analyze the HTML form in POST requests, you can view user credentials (e.g., username and password).  
 Example:  
