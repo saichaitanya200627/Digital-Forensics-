@@ -26,20 +26,20 @@
 2.  **Install Java:** Ensure JRE is installed on your machine.
 3.  **Prepare environment:** Place the `StegExpose.jar` file in a dedicated working folder.
 
-![images/exp1-disk-step1.png](https://github.com/99230040236-byte/DF/blob/01a0082a0b21ee8f5269415343b72b04cd02d0bf/exp1/8.1.png)
+![images/exp1-disk-step1.png](https://github.com/saichaitanya200627/Digital-Forensics-/blob/0b30cb4973a300aa08fe832d245cd7878190f50e/images/8.1.png)
 
 ### 2. Select Images for Analysis
 
 * Collect the images you suspect might contain hidden data.
 * StegExpose supports common image formats such as **.png**, **.jpg**, and **.bmp**.
 
-![images/exp1-disk-step1.png](https://github.com/99230040236-byte/DF/blob/9bce79846599c7aef2455bc4ad4536bb44513b09/exp1/8.6.png)
+![images/exp1-disk-step1.png](https://github.com/saichaitanya200627/Digital-Forensics-/blob/0b30cb4973a300aa08fe832d245cd7878190f50e/images/8.6.png)
 
 ### 3. Open Command Line or Terminal
 
 * Navigate to the folder where the `StegExpose.jar` file is located using your Command Prompt (Windows) or Terminal (Linux/macOS).
 
-![images/exp1-disk-step1.png](https://github.com/99230040236-byte/DF/blob/9bce79846599c7aef2455bc4ad4536bb44513b09/exp1/8.8.png)
+![images/exp1-disk-step1.png](https://github.com/saichaitanya200627/Digital-Forensics-/blob/0b30cb4973a300aa08fe832d245cd7878190f50e/images/8.8.png)
 
 
 ### 4. Run StegExpose on an Image
@@ -75,9 +75,9 @@
     Result: 0.4
     Steganography likely present
     ```
-  ![images/exp1-disk-step1.png](https://github.com/99230040236-byte/DF/blob/9bce79846599c7aef2455bc4ad4536bb44513b09/exp1/8.10.png)
+  ![images/exp1-disk-step1.png](https://github.com/saichaitanya200627/Digital-Forensics-/blob/0b30cb4973a300aa08fe832d245cd7878190f50e/images/8.10.png)
   
-  ![images/exp1-disk-step1.png](https://github.com/99230040236-byte/DF/blob/9bce79846599c7aef2455bc4ad4536bb44513b09/exp1/8.11.png)
+  ![images/exp1-disk-step1.png](https://github.com/saichaitanya200627/Digital-Forensics-/blob/0b30cb4973a300aa08fe832d245cd7878190f50e/images/8.11.png)
 
 ### 6. Batch Analysis (Multiple Images)
 
