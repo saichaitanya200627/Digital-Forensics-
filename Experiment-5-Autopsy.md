@@ -38,12 +38,12 @@ This experiment demonstrates how to create a case, import evidence, analyze data
 - Fill in details such as case number, examiner’s name, etc., and click *Next*.
 
 
-![(https://github.com/saichaitanya200627/Digital-Forensics-/blob/3ea0fc4a88b2ad03514843c8adeb0a876077b3a1/images/IMG-20250901-WA0081.jpg)
+![(images/exp5-step2.png)](https://github.com/saichaitanya200627/Digital-Forensics-/blob/3ea0fc4a88b2ad03514843c8adeb0a876077b3a1/images/IMG-20250901-WA0081.jpg)
 
 *Step-3: Enter Case Details*  
 - Enter the case name and location where the case data will be stored. Fill in the details like the case number, examiner's name, etc., and click Next.
 
-![(https://github.com/saichaitanya200627/Digital-Forensics-/blob/3ea0fc4a88b2ad03514843c8adeb0a876077b3a1/images/IMG-20250901-WA0082.jpg)
+![(images/exp5-step3.png)](https://github.com/saichaitanya200627/Digital-Forensics-/blob/3ea0fc4a88b2ad03514843c8adeb0a876077b3a1/images/IMG-20250901-WA0082.jpg)
 
 *Step-4: Adding a Data Source*  
 - Choose the type of data source.  
@@ -51,7 +51,7 @@ This experiment demonstrates how to create a case, import evidence, analyze data
 - Configure *Ingest Modules* (to analyze files, search keywords, extract metadata, etc.).  
 - Start the analysis.
 
-![(https://github.com/saichaitanya200627/Digital-Forensics-/blob/3ea0fc4a88b2ad03514843c8adeb0a876077b3a1/images/IMG-20250901-WA0083.jpg)
+![(images/exp5-step4.png)](https://github.com/saichaitanya200627/Digital-Forensics-/blob/3ea0fc4a88b2ad03514843c8adeb0a876077b3a1/images/IMG-20250901-WA0083.jpg)
 
 *Step-5: Initial Analysis and Overview*  
 - Monitor *Ingest Progress*.  
@@ -72,7 +72,7 @@ This experiment demonstrates how to create a case, import evidence, analyze data
 - *Hash Analysis:*  
   - Compare file hashes against known databases to identify known good/bad files.
 
-![(https://github.com/saichaitanya200627/Digital-Forensics-/blob/3ea0fc4a88b2ad03514843c8adeb0a876077b3a1/images/IMG-20250901-WA0085.jpg)
+![(images/exp5-step6.png)](https://github.com/saichaitanya200627/Digital-Forensics-/blob/3ea0fc4a88b2ad03514843c8adeb0a876077b3a1/images/IMG-20250901-WA0085.jpg)
 
 *Step-7: Reporting*  
 - Generate a report by selecting *Generate Report* from the toolbar.  
@@ -82,19 +82,19 @@ This experiment demonstrates how to create a case, import evidence, analyze data
 - Final Review: check that the report includes all relevant details.  
 - Save or print the report for case documentation.  
 
-![(https://github.com/saichaitanya200627/Digital-Forensics-/blob/3ea0fc4a88b2ad03514843c8adeb0a876077b3a1/images/IMG-20250901-WA0086.jpg)
+![(images/exp5-step7.png)](https://github.com/saichaitanya200627/Digital-Forensics-/blob/3ea0fc4a88b2ad03514843c8adeb0a876077b3a1/images/IMG-20250901-WA0086.jpg)
 
 - Report Generation Progress
 
-![(https://github.com/saichaitanya200627/Digital-Forensics-/blob/3ea0fc4a88b2ad03514843c8adeb0a876077b3a1/images/IMG-20250901-WA0087.jpg)
+![(images/exp5-step7.png)](https://github.com/saichaitanya200627/Digital-Forensics-/blob/3ea0fc4a88b2ad03514843c8adeb0a876077b3a1/images/IMG-20250901-WA0087.jpg)
 
 - Reports
 
-![(https://github.com/saichaitanya200627/Digital-Forensics-/blob/3ea0fc4a88b2ad03514843c8adeb0a876077b3a1/images/IMG-20250901-WA0088.jpg)
+![(images/exp5-step7.png)](https://github.com/saichaitanya200627/Digital-Forensics-/blob/3ea0fc4a88b2ad03514843c8adeb0a876077b3a1/images/IMG-20250901-WA0088.jpg)
 
 - Text in the report
 
-![(https://github.com/saichaitanya200627/Digital-Forensics-/blob/3ea0fc4a88b2ad03514843c8adeb0a876077b3a1/images/IMG-20250901-WA0089.jpg)
+![(images/exp5-step7.png)](https://github.com/saichaitanya200627/Digital-Forensics-/blob/3ea0fc4a88b2ad03514843c8adeb0a876077b3a1/images/IMG-20250901-WA0089.jpg)
 
 *Step-7: Case Closure*  
 - Close the case once the investigation is complete.  
